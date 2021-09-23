@@ -1,6 +1,8 @@
 # :snake: Monty Interpreter
 ###### By Winstone & Michael
 
+![authors](https://scontent.fnbo9-1.fna.fbcdn.net/v/t1.6435-9/s1080x2048/242829342_1722036017986868_8514175414708521759_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEs0wG2FYQuQwyPIUxGm8j8bFO9DxwnMItsU70PHCcwi1MBO6M-2im9rRtuIZoeBo2jCgF7QDthrgOFYz_bdqWh&_nc_ohc=U_1JyKWzkz4AX-NjdKW&_nc_oc=AQmIdpbcnYPYBRQ8zx2gmHE3TJfZNuttU_fLwMMfK6DcyPUNxVbJVfzkShOrqLYkLpQ&_nc_pt=5&_nc_ht=scontent.fnbo9-1.fna&oh=87fa89c97ec45b02b241eaaf006b53ad&oe=61703D60)
+
 Welcome to the Monty Bytecode Interpreter. This interpreter was built in the C language and is compliant with `ISO90`, `ISO99`, & `ISO11`. It reads Monty bytecode files of any extension (preferably `.m` although it doesn't matter), and interprets the opcodes contained.
 
 Our interpreter can be run as either a stack (LIFO) or queue (FIFO). Mode can be switched mid-script. The interpreter can handle a variety of Monty opcodes, including printing, mathematical operations, and more - all handled opcodes are listed below.
