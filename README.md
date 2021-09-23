@@ -210,5 +210,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Google/Stack Overflow (help on various memory errors (not leaks))
 
 <p align="center">
-  <img src="https://alx-apply.hbtn.io/brand_alx/share_image_2019.jpg" alt="ALX logo" width="500" height="600">
+  <img src="https://alx-apply.hbtn.io/brand_alx/share_image_2019.jpg" alt="ALX logo" width="500" height="200">
 </p>
